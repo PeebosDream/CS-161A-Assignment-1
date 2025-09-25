@@ -1,0 +1,6 @@
+{
+  "editor.stickyScroll.enabled": false,
+  "C_Cpp.formatting": "disabled",
+  "git.postCommitCommand": "sync",
+  "git.autorefresh": true
+}
